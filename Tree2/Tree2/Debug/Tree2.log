@@ -1,0 +1,53 @@
+﻿  Source.cpp
+c:\tree2\tree2\source.cpp(161): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\tree2\tree2\source.cpp(165): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\tree2\tree2\source.cpp(235): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\tree2\tree2\source.cpp(325): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\tree2\tree2\source.cpp(333): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\tree2\tree2\source.cpp(334): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\tree2\tree2\source.cpp(515): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\tree2\tree2\source.cpp(551): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\tree2\tree2\source.cpp(664): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\tree2\tree2\source.cpp(664): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\tree2\tree2\source.cpp(497): warning C4101: 'position': unreferenced local variable
+c:\tree2\tree2\source.cpp(730): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\tree2\tree2\source.cpp(731): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\tree2\tree2\source.cpp(808): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\tree2\tree2\source.cpp(809): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Tree2.vcxproj -> C:\Tree2\Debug\Tree2.exe
